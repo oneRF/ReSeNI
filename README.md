@@ -1,6 +1,7 @@
 # ReSeNI
 
-Project description
+**Project description**
+
 The project proposes a wireless-level sensor network for the enhancement of essential urban services.
 By means of an ultrasonic sensor it is possible to determine the distance of an object/obstacle from the sensor.
 In this way the level of liquids or solids can be determined with the same sensor.
