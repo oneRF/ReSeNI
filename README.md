@@ -7,12 +7,12 @@ In this way the level of liquids or solids can be determined with the same senso
 
 Immediate applications are listed below:
 
--Monitoring of water level in homes and buildings.
+- Monitoring of water level in homes and buildings.
 In Brazil, there are regions where water supply is scarce (eg, northeast) and other regions with sporadic water crises (eg São Paulo 2014-2015).
 By knowing the level of the water reservoirs in a significant number of buildings it is possible to direct water to the most critical places, that is, to make an intelligent water management.
 In addition, the system can provide data to regulatory agencies and allow monitoring of the quality of the service, since the information disclosed by the sanitation companies does not always match what is reported by the population.
 
--Level monitoring of water in rain and river galleries (urban drainage).
+- Level monitoring of water in rain and river galleries (urban drainage).
 Several Brazilian cities suffer from flooding points, which causes great damage to the public power and individuals.
 Through the continuous monitoring of the water level of river and storm galleries, it is possible to identify flood risk, clogging points and bottleneck points in drainage.
 This makes possible the intelligent management of the urban drainage and management system.
