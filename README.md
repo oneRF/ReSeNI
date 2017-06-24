@@ -35,8 +35,6 @@ The Network consists of several wireless sensing nodes and a hub node that sends
 The proposed project seeks to provide a low-cost, long-range, robust and self-diagnostic WSN solution to operate in remote environments without direct human intervention.
 These features are available for a solution and a low cost of deployment and maintenance.
 
-The measurements of the alarms and parameterization of the WSN will be done via Coap Protocol (Conformed Application Protocol) or MQTT (Telemetry Transport of Message Placement).
-The nodes can schedule readings for the Concentrator or generate alarms if there is an abrupt level change.
 The sensor nodes are purposely simple. Thus, the processing capacity of the sensor nodes is low to minimize the energy consumption and the final cost of the solution. It allows the connection of hundreds of os unities to a single node concentrator.
 The concentrators store the measurements, variable of alarm and battery of battery for the last readings.
 It's up to the Node to keep the data, send it to a cloud and manage a WSN.
@@ -71,3 +69,16 @@ If any of them present a falty state, the MCU can use a telephone network to sen
 - IP65 fully enclosed, a local configuration of the hub at the time of installation will be made by Bluetooth or WiFi via http interface that can be accessed by the field technician's phone or tablet.
 
 <img style=" display:inline" src="Ilustrations/Concentrator_04.png" width="500" alt=""/>
+
+
+**Software**
+
+The level data collection, alarms, and parameterization of the WSN will be done through the protocol HTTP, using a REST (Representational State Transfer) architecture to access the sensor nodes with the following commands POST, GET, PUT and DELETE. We can schedule readings for the Concentrator or generate alarms if an abrupt level change happens, for example.
+
+**References**
+
+1. Dragonboard 410c Installation Guide for Linux and Android
+https://github.com/96boards/documentation/wiki/Dragonboard-410c-Installation-Guide-for-Linux-and-Android
+
+2. 96boards DragonBoard 410c
+http://www.96boards.org/product/dragonboard410c
