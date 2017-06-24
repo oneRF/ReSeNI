@@ -68,4 +68,4 @@ If any of them present a falty state, the MCU can use a telephone network to sen
 
 - IP65 fully enclosed, a local configuration of the hub at the time of installation will be made by Bluetooth or WiFi via http interface that can be accessed by the field technician's phone or tablet.
 
-<img src="Ilustrations/Concentrator_04.png" />
+<img style=" display:inline" src="Ilustrations/Concentrator_04.png" width="500" alt=""/>
