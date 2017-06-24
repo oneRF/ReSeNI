@@ -1,6 +1,6 @@
 # ReSeNI
 
-![Logo](Logo ReSeNI.png)
+![Logo](Logo_ReSeNI.png)
 
 **Project description**
 
