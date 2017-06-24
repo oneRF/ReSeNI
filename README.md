@@ -49,13 +49,14 @@ The developed sensor node consists of:
 - Application plate with ultrasonic sensor for command and signal conditioning circuit.
 -Battery and power circuit.
 
--box with double-sided adhesive on the side, on/off switch and status LED to aid in field installation.
+- box with double-sided adhesive on the side, on/off switch and status LED to aid in field installation.
 
 
 <img src="Ilustrations/Sensor_node.png" />
 
 The concentrator node will consist of:
--Qualcomm DragonBoard 410C responsible for connection to the cloud, storage, processing of sensor node readings, and management of WSN.
+
+- Qualcomm DragonBoard 410C responsible for connection to the cloud, storage, processing of sensor node readings, and management of WSN.
 The board will run Linux on a partition read-only to minimize a chance of errors and two separate partitions for data for redundancy.
 
 - Base board with 100-240V AC power circuit with surge, over voltage, and over current protection. The board will also contain an MCU to monitor the state of other devices on the board.
