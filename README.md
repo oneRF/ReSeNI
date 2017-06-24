@@ -52,7 +52,7 @@ The developed sensor node consists of:
 - box with double-sided adhesive on the side, on/off switch and status LED to aid in field installation.
 
 
-<img src="Ilustrations/Sensor_node.png" />
+<img style=" display:inline" src="Ilustrations/Sensor_node.png" width="500" alt=""/>
 
 The concentrator node will consist of:
 
