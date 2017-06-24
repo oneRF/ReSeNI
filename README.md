@@ -1,5 +1,7 @@
 # ReSeNI
 
+![Logo](Logo ReSeNI.png)
+
 **Project description**
 
 The project proposes a wireless-level sensor network for the enhancement of essential urban services.
