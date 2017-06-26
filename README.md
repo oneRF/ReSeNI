@@ -71,14 +71,17 @@ If any of them present a falty state, the MCU can use a telephone network to sen
 <img style=" display:inline" src="Ilustrations/Concentrator_04.png" width="500" alt=""/>
 
 
-<img style=" display:inline" src="Ilustrations/Arquitetura_01.png" width="500" alt=""/>
-
-Solution Arquitecture
 
 
 **Software**
 
 The level data collection, alarms, and parameterization of the WSN will be done through the protocol HTTP, using a REST (Representational State Transfer) architecture to access the sensor nodes with the following commands POST, GET, PUT and DELETE. We can schedule readings for the Concentrator or generate alarms if an abrupt level change happens, for example.
+
+
+<img style=" display:inline" src="Ilustrations/Arquitetura_02.png" width="500" alt=""/>
+
+Solution Arquitecture
+
 
 **References**
 
