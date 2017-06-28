@@ -31,7 +31,7 @@ Its design allows easy integration into new customer application.
 - Data rate up to 100 kbps
 - 2-GFSK modulation
 
-<img style=" display:inline" src="Images/NIC_v05_m01.png" alt=""/>
+<img style=" display:inline" src="Images/NIC_v05_m02.png" alt=""/>
 
 
 
