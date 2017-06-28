@@ -62,4 +62,4 @@ $ sudo dd if=db410c_sd_install_debian.img of=/dev/sdb bs=4M oflag=sync status=no
 
 10 - Let switch S6 at the sequence 0-0-0-0
 
-11 - Click on "OK" to rebook
+11 - Click on "OK" to reboot
