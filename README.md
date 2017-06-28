@@ -6,6 +6,8 @@
 
 [YouTube video - Part 2](https://youtu.be/WQ7uPhs72ak)
 
+See our [instructables](http://www.instructables.com/id/Inteligent-Level-Sensors-Network/)
+
 **Project description**
 
 The project proposes a wireless-level sensor network for the enhancement of essential urban services.
