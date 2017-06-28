@@ -13,23 +13,23 @@ Its design allows easy integration into new customer application.
 
 
 **External Hardware interface:**
--01 x Serial TTL
--01 x SPI
--01 x I2C
--10 x GPIOs
--05 x ADCs
+- 01 x Serial TTL
+- 01 x SPI
+- 01 x I2C
+- 10 x GPIOs
+- 05 x ADCs
 
 **Complete Specification:**
--32-bit ARM Cortex-M3
--28 kB RAM and 128 kB Flash
--1.8V to 3.3V power supply
---40 °C to + 85 °C operating temperature
--Internal battery monitor and temperature sensor
--PCB type and UF.L antenna
--+14 dbm (25mW) TX power
--863 to 876 MHz and 902 to 928 MHz frequency bands
--Data rate up to 100 kbps
--2-GFSK modulation
+- 32-bit ARM Cortex-M3
+- 28 kB RAM and 128 kB Flash
+- 1.8V to 3.3V power supply
+- -40 °C to + 85 °C operating temperature
+- Internal battery monitor and temperature sensor
+- PCB type and UF.L antenna
+- +14 dbm (25mW) TX power
+- 863 to 876 MHz and 902 to 928 MHz frequency bands
+- Data rate up to 100 kbps
+- 2-GFSK modulation
 
 <img style=" display:inline" src="Images/NIC_v05_m01.png" alt=""/>
 
