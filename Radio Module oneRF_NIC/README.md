@@ -31,7 +31,7 @@ Its design allows easy integration into new customer application.
 -Data rate up to 100 kbps
 -2-GFSK modulation
 
-<img style=" display:inline" src="Images/NIC_v05_m01.png" width="200" alt=""/>
+<img style=" display:inline" src="Images/NIC_v05_m01.png" alt=""/>
 
 
 
@@ -41,6 +41,6 @@ In the open field test, we were able to maintain a stable 30 kbps link between R
 In the indor test, the Radio Modules were placed inside a buiding. 
 We were able to maintain a stable 30 kbps link between them up to a 11 floor distance.
 
-<img style=" display:inline" src="Images/range_test.png" width="500" alt=""/>
+<img style=" display:inline" src="Images/range_test.png" width="1000" alt=""/>
 
 
