@@ -6,7 +6,7 @@
 
 [YouTube video - Part 2](https://youtu.be/WQ7uPhs72ak)
 
-See our [instructables](http://www.instructables.com/id/Inteligent-Level-Sensors-Network/)
+**See our [INSTRUCTABLES](http://www.instructables.com/id/Inteligent-Level-Sensors-Network/)**
 
 **Project description**
 
