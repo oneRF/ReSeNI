@@ -26,6 +26,6 @@ The main file is "Interface 1.vi", double click it and run the vi.
 - interface.exe
 - interface.ini
 
-1) Download and install the LabVIEW Run-time engine from the link http://www.ni.com/download/labview-run-time-engine-2014/4887/en/
+1) Download and install the LabVIEW Run-time engine from this [link](http://www.ni.com/download/labview-run-time-engine-2014/4887/en/)
 
 2) Run "interface.exe"
